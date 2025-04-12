@@ -1,0 +1,8 @@
+# パスワードファイルを除外
+#.htpasswd
+
+# その他、除外したいファイルやフォルダ
+.env
+*.log
+node_modules/
+admin_config.php
