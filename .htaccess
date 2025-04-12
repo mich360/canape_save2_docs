@@ -1,0 +1,6 @@
+<Files "admin_config.php">
+    AuthType Basic
+    AuthName "Admin Area"
+    AuthUserFile /Users/user1/Desktop/canape_save2_docs/.htpasswd
+    Require valid-user
+</Files>
