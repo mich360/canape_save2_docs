@@ -6,3 +6,18 @@
 *.log
 node_modules/
 admin_config.php
+# 環境変数（最重要）
+.env
+
+# macOS
+.DS_Store
+
+# ログ
+*.log
+
+# キャッシュ
+__pycache__/
+*.pyc
+
+# node
+node_modules/
